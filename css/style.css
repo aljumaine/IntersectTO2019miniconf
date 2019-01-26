@@ -161,6 +161,7 @@ textarea.input {
   text-transform: capitalize;
   font-weight: 900;
   font-size: 42px;
+  text-decoration: underline wavy #a0f4e0;
 }
 
 .section-title .title>span {
