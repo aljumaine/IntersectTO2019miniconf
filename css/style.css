@@ -269,7 +269,7 @@ textarea.input {
 }
 
 #header.transparent-navbar .main-nav li a {
-  color: #FFF;
+  color: black;
 }
 
 #header.fixed-navbar .main-nav li a {
@@ -292,7 +292,11 @@ textarea.input {
 }
 
 #header.transparent-navbar .main-nav li a:hover {
+<<<<<<< HEAD
   color: #a0f4e0;
+=======
+  color: black;
+>>>>>>> 7a672ed45e87fc0556b92bddff2135cafe2fcdf6
 }
 
 .navbar-toggle {
@@ -333,7 +337,7 @@ textarea.input {
     display: none;
   }
   #header.transparent-navbar .main-nav li a {
-    color: #0b0f28;
+    color: black;
   }
   .main-nav li a:hover, .main-nav li a:focus, .main-nav li.active a {
     background-color: #a0f4e0;
@@ -367,11 +371,11 @@ textarea.input {
 .home-content h1 {
   text-transform: capitalize;
   font-weight: 900;
-  color: #FFF;
+  color: black;
 }
 
 .home-content h4 {
-  color: #FFF;
+  color: black;
 }
 
 #page-wrapper {
