@@ -50,11 +50,11 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 90px;
+  font-size: 85px;
 }
 
 .subtitle {
-  font-size:30px;
+  font-size:25px;
 }
 
 .highlight {
@@ -70,11 +70,16 @@ h3 {
 }
 
 h4 {
+  font-family: 'Inconsolata', monospace;
   font-size: 20px;
 }
 
 .lead {
   font-size: 20px;
+}
+
+p{
+  font-family: 'Inconsolata', monospace;
 }
 
 a {
