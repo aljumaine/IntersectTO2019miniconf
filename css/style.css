@@ -50,7 +50,15 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
-  font-size: 43px;
+  font-size: 90px;
+}
+
+.subtitle {
+  font-size:30px;
+}
+
+.highlight {
+  background: linear-gradient(to top, #a0f4e0 35%, transparent 35%);
 }
 
 h2 {
@@ -359,10 +367,10 @@ textarea.input {
 
 #home .home-wrapper {
   position: absolute;
-  top: 50%;
+  top: 55%;
   left: 0;
   right: 0;
-  text-align: center;
+  text-align: left;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
